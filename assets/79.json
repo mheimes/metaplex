@@ -1,0 +1,47 @@
+{
+  "dna": "8e2f152a13159231d8647244142ca28940af922a",
+  "name": "#79",
+  "description": "How does SANTA travel? HowTOurSANTAS!",
+  "image": "image.png",
+  "edition": 19,
+  "date": 1643814582645,
+  "symbol": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "HowTOurSANTAS",
+    "family": "FUNKY SANTAS Family"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Bg2Ve7bKAufe3wfxFRVSjgXBTAbB8VhtNf8hDVxaSQsN",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Car",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Sticker",
+      "value": "Snowflake"
+    },
+    {
+      "trait_type": "Windshield text",
+      "value": "HowTOurSANTAS"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "dna": "d39dd346a867854eed7392f8fa6d388a67a2ab7a",
+  "name": "#18",
+  "description": "How does SANTA travel? HowTOurSANTAS!",
+  "image": "image.png",
+  "edition": 18,
+  "date": 1643815468339,
+  "symbol": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "HowTOurSANTAS",
+    "family": "FUNKY SANTAS Family"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Bg2Ve7bKAufe3wfxFRVSjgXBTAbB8VhtNf8hDVxaSQsN",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Reindeer",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Bridle",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Spicy Cigarette"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Golden"
+    }
+  ]
+}

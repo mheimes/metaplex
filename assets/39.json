@@ -1,0 +1,55 @@
+{
+  "dna": "67ce63d3bcf3b26c0dd7256a083e3f1e1d58a568",
+  "name": "#39",
+  "description": "How does SANTA travel? HowTOurSANTAS!",
+  "image": "image.png",
+  "edition": 9,
+  "date": 1643814914266,
+  "symbol": "",
+  "seller_fee_basis_points": 0,
+  "collection": {
+    "name": "HowTOurSANTAS",
+    "family": "FUNKY SANTAS Family"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Bg2Ve7bKAufe3wfxFRVSjgXBTAbB8VhtNf8hDVxaSQsN",
+        "share": 100
+      }
+    ]
+  },
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Triceratops",
+      "value": "White"
+    },
+    {
+      "trait_type": "Saddle",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mouth Accessory",
+      "value": "Leaf"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Chain"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Double golden"
+    }
+  ]
+}
